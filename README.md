@@ -1,10 +1,9 @@
 ### Olá! E sou o Wilson Gabriel ✋
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wilgabb/)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-gabriel-da-cunha-p-045087211/)
+
+
 [![Wilgabrieel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilgabrieel)](https://github.com/Wilgabrieel/github-readme-stats)
-
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilgabrieel)](https://github.com/Wilgabrieel/github-readme-stats)
 
