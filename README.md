@@ -11,10 +11,6 @@
 
 ![blog](https://img.shields.io/badge/SQL-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![blog](https://img.shields.io/badge/PYHTON-239120?style=for-the-badge&logo=html5&logoColor=white)
-![blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 
 Estudando e aprendendo cada dia mais sobre as tecnologia!
 
